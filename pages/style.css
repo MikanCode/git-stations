@@ -61,13 +61,13 @@ footer {
   margin-left: 10%;
 }
 
-#drink-image {
+#food-image {
   height: 45vh;
-  width: 50%;
+  width: 40%;
   text-align: center;
 }
 
-#drink-image > img {
+#food-image > img {
   height: 100%;
   border-radius: 50%;
 }
